@@ -1,0 +1,9 @@
+.table {
+    border-collapse: collapse;
+    border: 1px solid #f2f2f2;
+}
+.btnDiv{
+    width: 485px;
+    display: flex;
+    justify-content: center;
+}
