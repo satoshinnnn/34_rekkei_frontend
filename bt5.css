@@ -1,9 +1,14 @@
-.table {
+table, td, th  {
     border-collapse: collapse;
-    border: 1px solid #f2f2f2;
+    border: 1px solid #c6bfbf;
+    padding: 10px;
 }
 .btnDiv{
     width: 485px;
     display: flex;
     justify-content: center;
+}
+.table {
+    width: 600px;
+    text-align: center;
 }
